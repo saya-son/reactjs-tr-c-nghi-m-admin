@@ -1,0 +1,146 @@
+{
+    "subjects":[
+        {
+            "id": 1,
+            "subjectId": 132,
+            "subjectName": "Nguyên lý hệ điều hành",
+            "describe": "Giới thiệu về Ram"
+        },
+        {
+            "id": 2,
+            "subjectId": 232,
+            "subjectName": "Thiết kế mạng máy tính",
+            "describe": "Giới thiệu về route"
+        },
+        {
+            "id": 3,
+            "subjectId": 235,
+            "subjectName": "Quản lý môi trường máy tính",
+            "describe": "Giới thiệu về môi trường máy tính"
+        }
+    ],
+    "questions":[
+        {
+            "questionId": 28,
+            "content": "Thủ đô của đức là gì ?",
+            "difficulty": "MEDIUM",
+            "chapterId": 3,
+            "chapterName": "Tên chương 1",
+            "answers": [
+                {
+                    "optionId": 37,
+                    "questionId": 28,
+                    "content": "Berlin",
+                    "isCorrect": true
+                },
+                {
+                    "optionId": 38,
+                    "questionId": 28,
+                    "content": "Paris",
+                    "isCorrect": false
+                },
+                {
+                    "optionId": 39,
+                    "questionId": 28,
+                    "content": "Maris",
+                    "isCorrect": false
+                },
+                {
+                    "optionId": 40,
+                    "questionId": 28,
+                    "content": "Hà Nội",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionId": 29,
+            "content": "Thủ đô của đức là gì ?",
+            "difficulty": "MEDIUM",
+            "chapterId": 3,
+            "chapterName": "Tên chương 1",
+            "answers": [
+                {
+                    "optionId": 41,
+                    "questionId": 29,
+                    "content": "Berlin",
+                    "isCorrect": true
+                },
+                {
+                    "optionId": 42,
+                    "questionId": 29,
+                    "content": "Paris",
+                    "isCorrect": false
+                },
+                {
+                    "optionId": 43,
+                    "questionId": 29,
+                    "content": "Maris",
+                    "isCorrect": false
+                },
+                {
+                    "optionId": 44,
+                    "questionId": 29,
+                    "content": "Hà Nội",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionId": 30,
+            "content": "Thủ đô của đức là gì ?",
+            "difficulty": "MEDIUM",
+            "chapterId": 3,
+            "chapterName": "Tên chương 1",
+            "answers": [
+                {
+                    "optionId": 45,
+                    "questionId": 30,
+                    "content": "Berlin",
+                    "isCorrect": false
+                },
+                {
+                    "optionId": 46,
+                    "questionId": 30,
+                    "content": "Paris",
+                    "isCorrect": false
+                },
+                {
+                    "optionId": 47,
+                    "questionId": 30,
+                    "content": "Maris",
+                    "isCorrect": true
+                },
+                {
+                    "optionId": 48,
+                    "questionId": 30,
+                    "content": "Hà Nội",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ],
+    "users":[
+        {
+            "userId": 1,
+            "username": "khangbach1987",
+            "fullName": "Bạch Ngọc Khang",
+            "email": "khangbach1987@gmail.com",
+            "role": "user"
+        },
+        {
+            "userId": 2,
+            "username": "khangbach1987",
+            "fullName": "Bạch Ngọc Khang",
+            "email": "khangbach1987@gmail.com",
+            "role": "user"
+        },
+        {
+            "userId": 3,
+            "username": "khangbach1987",
+            "fullName": "Bạch Ngọc Khang",
+            "email": "khangbach1987@gmail.com",
+            "role": "user"
+        }
+    ]
+}
