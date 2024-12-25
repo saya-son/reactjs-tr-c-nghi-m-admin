@@ -122,21 +122,21 @@
     ],
     "users":[
         {
-            "userId": 1,
+            "id": 1,
             "username": "khangbach1987",
             "fullName": "Bạch Ngọc Khang",
             "email": "khangbach1987@gmail.com",
             "role": "user"
         },
         {
-            "userId": 2,
+            "id": 2,
             "username": "khangbach1987",
             "fullName": "Bạch Ngọc Khang",
             "email": "khangbach1987@gmail.com",
             "role": "user"
         },
         {
-            "userId": 3,
+            "id": 3,
             "username": "khangbach1987",
             "fullName": "Bạch Ngọc Khang",
             "email": "khangbach1987@gmail.com",
